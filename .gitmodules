@@ -1,0 +1,4 @@
+[submodule "LeeSeongjin"]
+	path = LeeSeongjin
+	url = https://github.com/mobius29/ProblemSolving.git
+	branch = main
