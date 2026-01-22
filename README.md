@@ -19,5 +19,9 @@ git config -f .gitmodules submodule.[Path].branch main # 등록한 submodule을 
 - 본인의 PS Repository가 잘 Clone 되었는지
 
 ---
+참고로 본인의 저장소가 업데이트되어도, submodule은 자동으로 업데이트되지 않습니다.
+매 주 한 번씩 관리자(현: 이성진)가 업데이트할 예정이니, 위의 과정을 따라주셨다면 따로 신경 안쓰셔도 됩니다.
+
+---
 ## References
 - [깃(Git) & 깃허브(GitHub)](https://wikidocs.net/300274)
