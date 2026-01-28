@@ -2,3 +2,6 @@
 	path = LeeSeongjin
 	url = https://github.com/mobius29/ProblemSolving.git
 	branch = main
+[submodule "kimwoojin"]
+	path = kimwoojin
+	url = https://github.com/3sirn3203/boj
