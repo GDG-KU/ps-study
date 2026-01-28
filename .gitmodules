@@ -5,3 +5,4 @@
 [submodule "kimwoojin"]
 	path = kimwoojin
 	url = https://github.com/3sirn3203/boj
+	branch = main
