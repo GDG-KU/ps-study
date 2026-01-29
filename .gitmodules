@@ -10,3 +10,6 @@
 	path = kimminjun
 	url = https://github.com/1kl1/ps-study
 	branch = main
+[submodule "KimYuna"]
+	path = KimYuna
+	url = https://github.com/yxunakim84/problem-solving.git
