@@ -25,3 +25,8 @@ git config -f .gitmodules submodule.[Path].branch main # 등록한 submodule을 
 ---
 ## References
 - [깃(Git) & 깃허브(GitHub)](https://wikidocs.net/300274)
+
+---
+## TODO
+- 주간 업데이트 자동화 (with GitHub Action)
+- 주관 풀이 관리 일정 사이트 만들기?
