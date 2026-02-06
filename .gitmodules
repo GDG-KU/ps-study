@@ -13,6 +13,7 @@
 [submodule "KimYuna"]
 	path = KimYuna
 	url = https://github.com/yxunakim84/problem-solving.git
+	branch = main
 [submodule "SonHyolim"]
 	path = SonHyolim
 	url = https://github.com/Hyormionne/ProblemSolving.git
