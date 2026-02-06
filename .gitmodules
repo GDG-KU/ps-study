@@ -18,3 +18,7 @@
 	path = SonHyolim
 	url = https://github.com/Hyormionne/ProblemSolving.git
 	branch = main
+[submodule "kimyunaa"]
+	path = kimyunaa
+	url = https://github.com/yxunakim84/Algorithm-PS.git
+	branch = main
